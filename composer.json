@@ -1,5 +1,5 @@
 {
-	"name": "m0bYczE/rabbitmq",
+	"name": "mobycze/rabbitmq",
 	"type": "library",
 	"description": "Integrates php-amqplib with RabbitMq and Nette Framework",
 	"keywords": ["nette", "kdyby", "rabbitmq", "rabbit", "bunny", "amqp", "messaging", "message", "queue"],
